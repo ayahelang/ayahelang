@@ -151,7 +151,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayahelang&theme=2077&utcOffset=8)
 
 <!-- GitHub Activity Graph -->
-![snake gif](https://github.com/septianadip17/septianadip17/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ayahelang/ayahelang/blob/output/snake.svg)
 
 ![James What's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayahelang&custom_title=JamesWhat%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
